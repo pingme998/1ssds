@@ -1,0 +1,108 @@
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-668MSHBNLB&gtm=2oe6u0&_p=610145710&sr=1728x720&_gaz=1&ul=en-us&cid=1682163499.1625235614&_s=3&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829%26ID%3D15355568313&dr=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dt=Degoo%20Cloud&sid=1625235613&sct=1&seg=1&en=actions&_et=32826&ep.event_category=actions&ep.event_label=Clicked%20download.%20Category%3A%203&epn.value=1' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'content-length: 0' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: 1P_JAR=2021-07-01-17; NID=218=EHUxOBWbK6pfB1fXoKTZpL_AyrRGu-1vQtgeqVCOWIVu_UmHmdVWFf4sMYmkOU52NOZxNvAqEhpArSvgba9AxJBc1KAqSKiXebeW-du1dBI4t9OFFDZBlFxQmMKHKHxUJjRNUvuvGcbIdqsch2sYIl_cakSeKqE-M3xHWhbWfxQ' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-668MSHBNLB&gtm=2oe6u0&_p=610145710&sr=1728x720&_gaz=1&ul=en-us&cid=1682163499.1625235614&_s=3&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829%26ID%3D15355568313&dr=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dt=Degoo%20Cloud&sid=1625235613&sct=1&seg=1&en=actions&_et=32826&ep.event_category=actions&ep.event_label=Clicked%20download.%20Category%3A%203&epn.value=1' \
+  -X 'POST' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --compressed ;
+curl 'https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-668MSHBNLB&cid=1682163499.1625235614&gtm=2oe6u0&aip=1&z=1042587844' \
+  -H 'authority: www.google.co.in' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=event&_s=7&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&ec=actions&ea=actions&el=Clicked%20download.%20Category%3A%203&ev=1&_u=SACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=500156925' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://c.degoo.biz/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445449&Signature=9FyQi6WGrhvT2hommo5Ys1by6UM%3D&use-cf-cache=true&response-content-disposition=attachment;%20filename=%22Focal-Fossa-wallpaper.jpg%22&ngsw-bypass=1' \
+  -X 'HEAD' \
+  -H 'authority: c.degoo.biz' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-668MSHBNLB&cid=1682163499.1625235614&gtm=2oe6u0&aip=1&z=1042587844' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=event&_s=7&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&ec=actions&ea=actions&el=Clicked%20download.%20Category%3A%203&ev=1&_u=SACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=500156925' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://c.degoo.biz/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445449&Signature=9FyQi6WGrhvT2hommo5Ys1by6UM%3D&use-cf-cache=true&response-content-disposition=attachment;%20filename=%22Focal-Fossa-wallpaper.jpg%22&ngsw-bypass=1' \
+  -H 'authority: c.degoo.biz' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-668MSHBNLB&gtm=2oe6u0&_p=610145710&sr=1728x720&ul=en-us&cid=1682163499.1625235614&_s=4&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829%26ID%3D15355568313&dr=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dt=Degoo%20Cloud&sid=1625235613&sct=1&seg=1&en=click&_et=1411&ep.link_id=&ep.link_classes=&ep.link_url=https%3A%2F%2Fc.degoo.biz%2Fdegoo-production-medium-file-us-east1.degoo.me%2FADJyfh%2F2bCGDg%2Fjpg%2FChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg%3FGoogleAccessId%3DGOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA%26Expires%3D1626445449%26Signature%3D9FyQi6WGrhvT2hommo5Ys1by6UM%253D%26use-cf-cache%3Dtrue%26response-content-disposition%3Dattachment%3B%2520filename%3D%2522Focal-Fossa-wallpaper.jpg%2522%26ngsw-bypass%3D1&ep.link_domain=c.degoo.biz&ep.outbound=true' \
+  -X 'POST' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-668MSHBNLB&gtm=2oe6u0&_p=610145710&sr=1728x720&ul=en-us&cid=1682163499.1625235614&_s=4&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829%26ID%3D15355568313&dr=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dt=Degoo%20Cloud&sid=1625235613&sct=1&seg=1&en=click&_et=1411&ep.link_id=&ep.link_classes=&ep.link_url=https%3A%2F%2Fc.degoo.biz%2Fdegoo-production-medium-file-us-east1.degoo.me%2FADJyfh%2F2bCGDg%2Fjpg%2FChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg%3FGoogleAccessId%3DGOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA%26Expires%3D1626445449%26Signature%3D9FyQi6WGrhvT2hommo5Ys1by6UM%253D%26use-cf-cache%3Dtrue%26response-content-disposition%3Dattachment%3B%2520filename%3D%2522Focal-Fossa-wallpaper.jpg%2522%26ngsw-bypass%3D1&ep.link_domain=c.degoo.biz&ep.outbound=true' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'content-length: 0' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: 1P_JAR=2021-07-01-17; NID=218=EHUxOBWbK6pfB1fXoKTZpL_AyrRGu-1vQtgeqVCOWIVu_UmHmdVWFf4sMYmkOU52NOZxNvAqEhpArSvgba9AxJBc1KAqSKiXebeW-du1dBI4t9OFFDZBlFxQmMKHKHxUJjRNUvuvGcbIdqsch2sYIl_cakSeKqE-M3xHWhbWfxQ' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"17585717"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"17585717"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed
