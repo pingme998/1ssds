@@ -1,0 +1,451 @@
+curl 'https://mega.nz/file/CqRjDSoZ' \
+  -H 'Connection: keep-alive' \
+  -H 'Cache-Control: max-age=0' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: geoip=IN; logged=1; geoip=IN' \
+  --compressed ;
+curl 'https://mega.nz/secureboot.js?r=1625025745' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Accept: */*' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Referer: https://mega.nz/file/CqRjDSoZ' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: logged=1; geoip=IN' \
+  --compressed ;
+curl 'https://localhost:3131/mega.nz.js' \
+  -H 'Accept: text/plain, */*; q=0.01' \
+  -H 'Referer: https://mega.nz/file/CqRjDSoZ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://g.api.mega.co.nz/cs?id=0&domain=meganz&ut=r25ombsuXnk&v=2&lang=en&sid=gp6Ia_cSswWB7xLYLxGYoWlHQTdQb0x3Ylo4IYhEpIaphsLpJxMeRVoMcg' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw '[{"a":"ug"}]' \
+  --compressed ;
+curl 'https://g.api.mega.co.nz/cs?id=0&domain=meganz&ut=r25ombsuXnk&v=2&lang=en&sid=gp6Ia_cSswWB7xLYLxGYoWlHQTdQb0x3Ylo4IYhEpIaphsLpJxMeRVoMcg' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw '[{"a":"g","p":"CqRjDSoZ","au":["wphl","wphr","wpht"],"ad":1}]' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'If-None-Match: "7iDU8hm3qlWMl9FiVsz8i2t60QE="' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'If-None-Match: "g6aE/b++aZ4UcFpyYvpxFcUtOH4="' \
+  --compressed ;
+curl 'https://mega.nz/loading-sprite_v4.png' \
+  -H 'Referer: https://mega.nz/file/CqRjDSoZ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://mega.nz/manifest.json' \
+  -H 'Referer: https://mega.nz/file/CqRjDSoZ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://mega.nz/favicon.ico?v=3' \
+  -H 'Connection: keep-alive' \
+  -H 'Pragma: no-cache' \
+  -H 'Cache-Control: no-cache' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Dest: image' \
+  -H 'Referer: https://mega.nz/file/CqRjDSoZ' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: logged=1; geoip=IN' \
+  --compressed ;
+curl 'https://mega.nz/android-chrome-144x144.png' \
+  -H 'Referer: https://mega.nz/file/CqRjDSoZ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/lang/en_c4d784ab8088a26d2d37eb98ea20f2e89fecf6039098cd4b18cb9f226c19c84d.json' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-1_941b12b658b88e49c9f13eb4095a6b368e922b0a741af030793646a12f852b86.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-2_a7b49b07bb134ac51cf051479a7487118d9633a0f34c4de6b6cc7f6f87ae4f14.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-3_5bd1ced6dfe1a2f05bb3bb1ce28995fe9c4550d5311d11c63e5ccecfd62e44d3.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-4_0f0eadb8ae066e038e967bddc650316464103de204d6c90baf93410c03a3bb88.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-5_2bfa147fd18d75e2aef2ba30f9289f51d1012d2c8f5dd0c2c60f3997693675c9.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-6_362db36b31ef4346f4d47f76aa91c3ea0a19bf827c7cca89013e60cdff49a158.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/css/mega-1_08c1e919b19082023670bd93f71792578f47ed8db1273489f82a2ea7f06af640.css' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/html/templates_365ee4a4687a5bf3f3768348113c9f47be684167d05ebf3f322f43fd583f15e1.json' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-7_43589d6f1002c6ca2387da51213c34820c1d0862cc6d544cb95499f5c5932d06.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/css/mega-2_6440618da8342476909c6d83ae4006a5323126b3be606b4006273fff222f0ab9.css' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-8_a11eb34a7441671acfe5dff0407e7d6d338fac26dd8ccc5b597710bd7d9c787f.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-9_cf03a1f3f80b9dd78bbcab7a3ee7adb65866ce39e673ef622c3e8e5cf0b83e82.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/css/mega-3_9e33471a4ac02b88af42caec9fe1b1ca30bd789159c54308ebd064a59d927470.css' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-10_26904ff9e1f886b10a63f66e705496d7a00eff32f4fc2afcdac69b0a104f7dfa.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/css/mega-4_824fe638de1e4c14e4854561608bf72ffe991a415a0405484ea798ca69108789.css' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-11_965e1ce8f6246cfbe9c28d7ce87d1a7987b4c7912efb5a06465f4f41646a5b38.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/css/mega-5_638d39fa83668d1b427bb5f0d0b20f3867596bbcbc8bdfe32cca52b1da7022a1.css' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-12_9ba0291f3e4c9be5f50a25018037644ebe5b5150da3c51b878c3132dee021c51.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/mega-13_47ca31d0d94004887ab1fbe2d6511daa9c67193d43739cd8e9e463afff023ff8.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/css/mega-7_ac8852c56abe2e75bbf09ae5196caafc23977c4a2060ae5b70db165c7683992c.css' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/vendor/asmcrypto_9c90f27443fbdb85519985333a8b00c3cff0e10a2753955f41890342d64362f7.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/html/download.html-postbuild_db1590352a37cdfe8402ff5a360cfbc9d6b1b4989bb1b8bee7b4e7b0099576f6.html' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/html/js/download_e228b4e156c8e54c8e7c1393d6006792e0dc3154e23f7bea9cb65d764cc40c7e.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/js/gAdvs_5697d5127611b107326b38aef9e3673df63ba03a465a0601e8ac2376d9a80119.js' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/fonts/Lato-Regular.woff2?v=2d1ebebb95335afc' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/fonts/Lato-Semibold.woff2?v=2e46761b2351255f' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/fonts/Lato-Black.woff2?v=9275ac0c2847c376' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/fonts/Lato-Bold.woff2?v=68dc6f1014d3c7a0' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/fonts/SourceSansPro-Regular.woff2?v=9b09a0a717450f1d' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/fonts/montserrat-regular-webfont.woff?v=8b69149969ad831c' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/fonts/montserrat-light-webfont.woff2?v=86f7972265cf2175' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/sprites-fm-mono.fbba7e4f21e74a97.woff2?t=1622523322533' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://mega.io/loggedin' \
+  -H 'Connection: keep-alive' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Dest: iframe' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: logged=1' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mobile/button-loader-green.gif?v=496c65f124df3f2c' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start_img1-2@2x.png?v=9945c88c8658e9bd' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start_img1-1@2x.png?v=5d394f9731935be' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start_img1-3a@2x.png?v=eae8cb9fec820457' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/affiliate-img1@2x.png?v=62584dcf7ebe4e26' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/affiliate-img2@2x.png?v=33d4f879ce0eaff6' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/affiliate-img3@2x.png?v=c427cb9ebf8d5ad4' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-bottom-page-start_img2-2x.1c1f70ed8a496341.png' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start_img3-2@2x.png?v=daf1ea2bb106658f' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start_img3-1@2x.png?v=c8efd0d41036f4a0' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-bottom-page-start_img3-2x.cdd4b5b139f76f37.png' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start_img4@2x.png?v=87b1e4b54d1bdee7' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start_img5-1@2x.png?v=b8d8577ed403a826' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-bottom-page-start_img5-2x.299ab38bbaf6813c.png' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start-sl-img1.png?v=b4176174991d0b31' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-bottom-page-start-sl-img2.b777ae5cc3d4e4c.png' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start-sl-img6.png?v=244bbb4760510fbc' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start-sl-img7.png?v=1eb68f98b3374396' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/sprites-fm-uni-uni.cd8854728a1dcdb0.svg' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-files-icons.2ddc5fae13f763d6.png' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-icons-sprite.e647546cdfb58102.png' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-dialog-sprite.b252136f957452a2.png' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-menus-sprite.eaec5ae012c3546e.png' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-register-sprite.a225d01a29319c9a.png' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-startpage-sprite.47563a46fd50806b.png' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-bottom-page-grey-angle.41e583d8e18bfd30.svg' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start_img4-2@2x.png?v=c787bea42fe317ac' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/images/mega/bottom-page/start_img5-3@2x.png?v=3481a292e6c0bfa6' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://sg.static.mega.co.nz/4/imagery/mega-bottom-page-start_img5-4-2x.fa36acfe92c0876e.png' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'data:image/avif;base64,AAAAHGZ0eXBtaWYxAAAAAG1pZjFhdmlmbWlhZgAAAPJtZXRhAAAAAAAAACtoZGxyAAAAAAAAAABwaWN0AAAAAAAAAAAAAAAAZ28tYXZpZiB2MAAAAAAOcGl0bQAAAAAAAQAAAB5pbG9jAAAAAARAAAEAAQAAAAABFgABAAAAGAAAAChpaW5mAAAAAAABAAAAGmluZmUCAAAAAAEAAGF2MDFJbWFnZQAAAABnaXBycAAAAEhpcGNvAAAAFGlzcGUAAAAAAAAAAQAAAAEAAAAQcGFzcAAAAAEAAAABAAAADGF2MUOBAAwAAAAAEHBpeGkAAAAAAwgICAAAABdpcG1hAAAAAAAAAAEAAQQBAoOEAAAAIG1kYXQSAAoFGAAOwCAyDR/wAABgBgAAAACsyvA=' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://g.api.mega.co.nz/cs?id=-3793185611&sid=gp6Ia_cSswWB7xLYLxGYoWlHQTdQb0x3Ylo4IYhEpIaphsLpJxMeRVoMcg&domain=meganz&ut=r25ombsuXnk&v=2&lang=en' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw $'[{"a":"uga","u":"iGA7PoLwbZ8","ua":"+a","v":1},{"a":"uga","u":"iGA7PoLwbZ8","ua":"^\u0021lastPsa","v":1},{"a":"log","e":99714,"m":"[1,\\"CqRjDSoZ\\",null]"}]' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://g.api.mega.co.nz/cs?id=-3793185610&sid=gp6Ia_cSswWB7xLYLxGYoWlHQTdQb0x3Ylo4IYhEpIaphsLpJxMeRVoMcg&domain=meganz&ut=r25ombsuXnk&v=2&lang=en' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw '[{"a":"ufa","fah":"HN65lJvKLvA","ssl":1,"r":1}]' \
+  --compressed ;
+curl 'http://127.0.0.1:6341/' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --data-raw '{"a":"v"}' \
+  --compressed ;
+curl 'https://gfs270n875.userstorage.mega.co.nz/.OkxF_UeMMy7brAdXBt-3INkDQEG_CNo_KmLUkCeLO1by0Re3FyIcdJ59eRRHw3is_QC0DQ/0' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw $'\u001cÞ¹\u0094\u009bÊ.ð' \
+  --compressed ;
+curl 'https://g.api.mega.co.nz/cs?id=-3793185609&sid=gp6Ia_cSswWB7xLYLxGYoWlHQTdQb0x3Ylo4IYhEpIaphsLpJxMeRVoMcg&domain=meganz&ut=r25ombsuXnk&v=2&lang=en' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://mega.nz' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw '[{"a":"gpsa"}]' \
+  --compressed
