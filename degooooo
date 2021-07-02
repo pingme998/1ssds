@@ -1,0 +1,790 @@
+curl 'https://cloud.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg' \
+  -H 'Connection: keep-alive' \
+  -H 'Cache-Control: max-age=0' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Cookie: _s=AXp7iQLSChR%2BqOElnu0WOUCta1D%2BKXBujrfvTa9FQJpiNkMMfxaYKXvKcJB3drCx; __stripe_mid=7bd0b68d-7bcd-4f7f-8dec-6bb75b5ddc593adeba; __stripe_sid=9bf6b099-f0b3-4e69-b5ff-fd9327422bc14d51c5; .ASPXAUTH=5975D3918BC51C0952BF108BB1ECA6E7CC0002B5AFB543DFE95FC0AB4D4AE806E6E0A0CF8F45CC20BF9808715F93E636C98F032985BBBF5141200151747F72EAC8B55654E15505DC2E8780F854A152D14F8EB23BDB8EAD5AB5E1576BD026F12A6392A8D0DFB7C6FE7A7BAD9A4DD2C9F9; refreshToken=ADJyfh..zL1K4iIq2oEDMBu4PhmEgc_ZOHT0OkqCraFEZDzKB0wiLuXLwyUgS0A4XALAjdC54qER-U1cRgv8dg; login=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8; _gid=GA1.2.1082673255.1625235615; mp_0357aa173096b5d9ada88030fbb1de30_mixpanel=%7B%22distinct_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%2C%22%24device_id%22%3A%20%2217a637448851c5-0658e796c892f4-756b0b5e-12fc00-17a63744886a8%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22%24user_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%7D; lastShareLinkVisit=G9_Ef2eXLNNmvUBs-09tGg; _ga=GA1.2.1682163499.1625235614; _ga_668MSHBNLB=GS1.1.1625235613.1.1.1625235717.18' \
+  --compressed ;
+curl 'https://s82i.app.link/5twzZ118yhb?_p=c51d29cb9a1c65f6e50388' \
+  -H 'authority: s82i.app.link' \
+  -H 'cache-control: max-age=0' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: none' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: _s=9m%2FcouVjbiIW2aQGi5XXsfQWP%2FwDxMG8qa%2BduCuSHdkcuRXOZRp5ep9LzjG7C7vb' \
+  --compressed ;
+curl 'https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/styles.16a5ddeeaf4886b9be82.css' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/runtime-es2015.68b1f353845989525e59.js' \
+  -H 'Origin: https://app.degoo.com' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/polyfills-es2015.04cb6cf2b00bfa357ac4.js' \
+  -H 'Origin: https://app.degoo.com' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/main-es2015.6fcfdc357882834a56d3.js' \
+  -H 'Origin: https://app.degoo.com' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://localhost:3131/app.degoo.com.js' \
+  -H 'Accept: text/plain, */*; q=0.01' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/roboto/v27/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'Origin: https://app.degoo.com' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/roboto/v27/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2' \
+  -H 'Origin: https://app.degoo.com' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/i18n/translations/en.json' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/i18n/en.json' \
+  -H 'authority: app.degoo.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.degoo.com/ngsw-worker-polyfill.js' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: __stripe_mid=7bd0b68d-7bcd-4f7f-8dec-6bb75b5ddc593adeba; __stripe_sid=9bf6b099-f0b3-4e69-b5ff-fd9327422bc14d51c5; .ASPXAUTH=5975D3918BC51C0952BF108BB1ECA6E7CC0002B5AFB543DFE95FC0AB4D4AE806E6E0A0CF8F45CC20BF9808715F93E636C98F032985BBBF5141200151747F72EAC8B55654E15505DC2E8780F854A152D14F8EB23BDB8EAD5AB5E1576BD026F12A6392A8D0DFB7C6FE7A7BAD9A4DD2C9F9; refreshToken=ADJyfh..zL1K4iIq2oEDMBu4PhmEgc_ZOHT0OkqCraFEZDzKB0wiLuXLwyUgS0A4XALAjdC54qER-U1cRgv8dg; login=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8; _gid=GA1.2.1082673255.1625235615; mp_0357aa173096b5d9ada88030fbb1de30_mixpanel=%7B%22distinct_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%2C%22%24device_id%22%3A%20%2217a637448851c5-0658e796c892f4-756b0b5e-12fc00-17a63744886a8%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22%24user_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%7D; lastShareLinkVisit=G9_Ef2eXLNNmvUBs-09tGg; _ga=GA1.2.1682163499.1625235614; _ga_668MSHBNLB=GS1.1.1625235613.1.1.1625235717.18' \
+  -H 'if-none-match: W/"eac61fc072474af26890683cba35c32d"' \
+  -H 'if-modified-since: Wed, 30 Jun 2021 08:05:05 GMT' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/i18n/en.json' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/i18n/translations/en.json' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtag/js?id=UA-36877698-1' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googleoptimize.com/optimize.js?id=OPT-M5H55H5' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtag/js?id=UA-36877698-1' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googleoptimize.com/optimize.js?id=OPT-M5H55H5' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/2-es2015.511349fb0dc623a7f5f1.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/3-es2015.d30c7ed07f6c92030d2a.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/1-es2015.0e7fb10330decad68ad1.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/4-es2015.8fc57aba7707bd7767c7.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/8-es2015.d9532f735537bd0d5a7d.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/7-es2015.8973bb01a146cfceb6c0.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/6-es2015.3dfc7356827c5ed7e537.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/9-es2015.de6ba7b68a74a15bd7a1.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/10-es2015.cff8266f458060debb3b.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/11-es2015.3a47b005d3f916abbe82.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/12-es2015.bcc59e2cc1e896c8b4f0.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/14-es2015.d903d1b6d548f4167cfc.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/15-es2015.ea5c2c6c7a62a1d37cf7.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/16-es2015.0d591405fb5c002ca25d.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/21-es2015.e187ffbfa9c4bf7fc84d.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/common-es2015.f7a0149f366b4e5833e3.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/177-es2015.b86c1600595161805f18.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtag/js?id=G-668MSHBNLB&l=dataLayer&cx=c' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtag/js?id=G-668MSHBNLB&l=dataLayer&cx=c' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-668MSHBNLB&gtm=2oe6u0&_p=610145710&sr=1728x720&_gaz=1&ul=en-us&cid=1682163499.1625235614&_s=1&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dt=Degoo%20Cloud&sid=1625235613&sct=1&seg=1&en=page_view' \
+  -X 'POST' \
+  -H 'authority: analytics.google.com' \
+  -H 'content-length: 0' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: 1P_JAR=2021-07-01-17; NID=218=EHUxOBWbK6pfB1fXoKTZpL_AyrRGu-1vQtgeqVCOWIVu_UmHmdVWFf4sMYmkOU52NOZxNvAqEhpArSvgba9AxJBc1KAqSKiXebeW-du1dBI4t9OFFDZBlFxQmMKHKHxUJjRNUvuvGcbIdqsch2sYIl_cakSeKqE-M3xHWhbWfxQ' \
+  --compressed ;
+curl 'https://www.google-analytics.com/analytics.js' \
+  -H 'Accept: */*' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-668MSHBNLB&cid=1682163499.1625235614&gtm=2oe6u0&aip=1&z=873344213' \
+  -H 'authority: www.google.co.in' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-668MSHBNLB&gtm=2oe6u0&_p=610145710&sr=1728x720&_gaz=1&ul=en-us&cid=1682163499.1625235614&_s=1&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dt=Degoo%20Cloud&sid=1625235613&sct=1&seg=1&en=page_view' \
+  -X 'POST' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --compressed ;
+curl 'https://www.google-analytics.com/analytics.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-668MSHBNLB&cid=1682163499.1625235614&gtm=2oe6u0&aip=1&z=873344213' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"17585717"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"17585717"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetUserInfo3","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8"},"query":"query GetUserInfo3($Token: String\u0021) {\\n    getUserInfo3(Token: $Token) {\\n      ID\\n      FirstName\\n      LastName\\n      Email\\n      AvatarURL\\n      CountryCode\\n      LanguageCode\\n      Phone\\n      AccountType\\n      UsedQuota\\n      TotalQuota\\n      OAuth2Provider\\n      GPMigrationStatus\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetUserInfo3","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8"},"query":"query GetUserInfo3($Token: String\u0021) {\\n    getUserInfo3(Token: $Token) {\\n      ID\\n      FirstName\\n      LastName\\n      Email\\n      AvatarURL\\n      CountryCode\\n      LanguageCode\\n      Phone\\n      AccountType\\n      UsedQuota\\n      TotalQuota\\n      OAuth2Provider\\n      GPMigrationStatus\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/fonts/TitlingFBGothicMedium.woff2' \
+  -H 'Origin: https://app.degoo.com' \
+  -H 'Referer: https://app.degoo.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://rest-api.degoo.com/shared' \
+  -H 'authority: rest-api.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw '{"HashValue":"G9_Ef2eXLNNmvUBs-09tGg","Limit":100,"FileID":null,"JWT":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8"}' \
+  --compressed ;
+curl 'https://rest-api.degoo.com/shared' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: application/json' \
+  --data-raw '{"HashValue":"G9_Ef2eXLNNmvUBs-09tGg","Limit":100,"FileID":null,"JWT":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8"}' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/images/degoo_logo_white.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/selection.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/baseline-add-24px.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=610145710&t=pageview&_s=1&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&_u=QACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=1544664316' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=pageview&_s=2&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&_u=QACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=573274201' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=pageview&_s=3&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&_u=QACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=1750006990' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=event&_s=4&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&ec=share&ea=actions&el=Share%3A%20Share%20link%20browsing.%20SignedIn%3A%20true&_u=QACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=1420806265' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&a=610145710&t=pageview&_s=1&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&_u=QACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=1544664316' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=pageview&_s=2&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&_u=QACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=573274201' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=pageview&_s=3&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&_u=QACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=1750006990' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=event&_s=4&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&ec=share&ea=actions&el=Share%3A%20Share%20link%20browsing.%20SignedIn%3A%20true&_u=QACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=1420806265' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://app.degoo.com/manifest.webmanifest' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/favicon_round.ico' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/icon-144x144.png' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetPermissions3","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","FileID":15355561846},"query":"query GetPermissions3($Token: String\u0021, $FileID: String\u0021) {\\n    getPermissions3(Token: $Token, FileID: $FileID) {\\n      Owner {\\n        Name\\n        Email\\n        Phone\\n        AvatarURL\\n        AccountType\\n        UsedQuota\\n        TotalQuota\\n        OAuth2Provider\\n      }\\n      Permissions {\\n        User {\\n          Name\\n          Email\\n          Phone\\n          AvatarURL\\n          AccountType\\n          UsedQuota\\n          TotalQuota\\n          OAuth2Provider\\n        }\\n        ShareInfo {\\n          Status\\n          ShareTime\\n        }\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetPermissions3","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","FileID":15355561846},"query":"query GetPermissions3($Token: String\u0021, $FileID: String\u0021) {\\n    getPermissions3(Token: $Token, FileID: $FileID) {\\n      Owner {\\n        Name\\n        Email\\n        Phone\\n        AvatarURL\\n        AccountType\\n        UsedQuota\\n        TotalQuota\\n        OAuth2Provider\\n      }\\n      Permissions {\\n        User {\\n          Name\\n          Email\\n          Phone\\n          AvatarURL\\n          AccountType\\n          UsedQuota\\n          TotalQuota\\n          OAuth2Provider\\n        }\\n        ShareInfo {\\n          Status\\n          ShareTime\\n        }\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://app.degoo.com/5-es2015.baf382e8e0ce94e35a4a.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/17-es2015.52580c025a9d533d0a05.js' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":15355561846}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetPermissions3","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","FileID":15355561846},"query":"query GetPermissions3($Token: String\u0021, $FileID: String\u0021) {\\n    getPermissions3(Token: $Token, FileID: $FileID) {\\n      Owner {\\n        Name\\n        Email\\n        Phone\\n        AvatarURL\\n        AccountType\\n        UsedQuota\\n        TotalQuota\\n        OAuth2Provider\\n      }\\n      Permissions {\\n        User {\\n          Name\\n          Email\\n          Phone\\n          AvatarURL\\n          AccountType\\n          UsedQuota\\n          TotalQuota\\n          OAuth2Provider\\n        }\\n        ShareInfo {\\n          Status\\n          ShareTime\\n        }\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":15355561846}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetPermissions3","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","FileID":15355561846},"query":"query GetPermissions3($Token: String\u0021, $FileID: String\u0021) {\\n    getPermissions3(Token: $Token, FileID: $FileID) {\\n      Owner {\\n        Name\\n        Email\\n        Phone\\n        AvatarURL\\n        AccountType\\n        UsedQuota\\n        TotalQuota\\n        OAuth2Provider\\n      }\\n      Permissions {\\n        User {\\n          Name\\n          Email\\n          Phone\\n          AvatarURL\\n          AccountType\\n          UsedQuota\\n          TotalQuota\\n          OAuth2Provider\\n        }\\n        ShareInfo {\\n          Status\\n          ShareTime\\n        }\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/more_horizontal.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/photo_square.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/clear.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=event&_s=5&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&ec=engagement&ea=opened_overlay&el=Opened%20overlay&ev=1&_u=SACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=875440103' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=event&_s=6&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&ec=engagement&ea=overlay&el=Showing%20PHOTO%20in%20overlay&ev=1&_u=SACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=1444059119' \
+  -H 'authority: www.google-analytics.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://c.degoo.media/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445364&Signature=73NTq67U4atWcW2XzTee5rs19Gk%3D&use-cf-cache=true' \
+  -H 'authority: c.degoo.media' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/zoom_in.svg' \
+  -H 'Referer: https://app.degoo.com/ngsw-worker-polyfill.js' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/baseline-chevron_right-24px.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/baseline-chevron_left-24px.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=event&_s=5&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&ec=engagement&ea=opened_overlay&el=Opened%20overlay&ev=1&_u=SACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=875440103' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.google-analytics.com/collect?v=1&_v=j91&aip=1&a=610145710&t=event&_s=6&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&dp=%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829&ul=en-us&de=UTF-8&dt=Degoo%20Cloud&sd=24-bit&sr=1728x720&vp=872x444&je=0&ec=engagement&ea=overlay&el=Showing%20PHOTO%20in%20overlay&ev=1&_u=SACAAUAB~&cid=1682163499.1625235614&tid=UA-36877698-1&_gid=1082673255.1625235615&gtm=2ou6u0&z=1444059119' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://c.degoo.media/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445364&Signature=73NTq67U4atWcW2XzTee5rs19Gk%3D&use-cf-cache=true' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/album.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/comment_vs.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/heart_outlined.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/zoom_in.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetComments2","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","FileID":"15355568313","Limit":10,"OrderDescending":false},"query":"query GetComments2(\\n    $Token: String\u0021\\n    $FileID: String\u0021\\n    $OrderDescending: Boolean\\n    $Limit: Int\u0021\\n    $NextToken: String\\n  ) {\\n    getComments2(\\n      Token: $Token\\n      FileID: $FileID\\n      OrderDescending: $OrderDescending\\n      Limit: $Limit\\n      NextToken: $NextToken\\n    ) {\\n      Items {\\n        ID\\n        Author {\\n          Name\\n          Email\\n          Phone\\n          AvatarURL\\n          AccountType\\n          UsedQuota\\n          TotalQuota\\n          OAuth2Provider\\n        }\\n        ParentCommentID\\n        CreationTime\\n        IsDeleted\\n        Content\\n        IsSelfLiked\\n        Likes\\n      }\\n      NextToken\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/arrow_forward.svg' \
+  -H 'Referer: https://app.degoo.com/ngsw-worker-polyfill.js' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/send.svg' \
+  -H 'Referer: https://app.degoo.com/ngsw-worker-polyfill.js' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetComments2","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","FileID":"15355568313","Limit":10,"OrderDescending":false},"query":"query GetComments2(\\n    $Token: String\u0021\\n    $FileID: String\u0021\\n    $OrderDescending: Boolean\\n    $Limit: Int\u0021\\n    $NextToken: String\\n  ) {\\n    getComments2(\\n      Token: $Token\\n      FileID: $FileID\\n      OrderDescending: $OrderDescending\\n      Limit: $Limit\\n      NextToken: $NextToken\\n    ) {\\n      Items {\\n        ID\\n        Author {\\n          Name\\n          Email\\n          Phone\\n          AvatarURL\\n          AccountType\\n          UsedQuota\\n          TotalQuota\\n          OAuth2Provider\\n        }\\n        ParentCommentID\\n        CreationTime\\n        IsDeleted\\n        Content\\n        IsSelfLiked\\n        Likes\\n      }\\n      NextToken\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/arrow_forward.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/send.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/folder_add.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/upload_on_cloud.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://c.degoo.biz/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445366&Signature=t32576vPKbIS7tC6pFINUvF9dXI%3D&use-cf-cache=true' \
+  -H 'authority: c.degoo.biz' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://c.degoo.biz/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445366&Signature=t32576vPKbIS7tC6pFINUvF9dXI%3D&use-cf-cache=true' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/new_message.svg' \
+  -H 'Referer: https://app.degoo.com/share/G9_Ef2eXLNNmvUBs-09tGg?_branch_match_id=939218991887261829&ID=15355568313' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://app.degoo.com/assets/icons/new_message.svg' \
+  -H 'Referer: https://app.degoo.com/ngsw-worker-polyfill.js' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-668MSHBNLB&gtm=2oe6u0&_p=610145710&sr=1728x720&ul=en-us&cid=1682163499.1625235614&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829%26ID%3D15355568313&dt=Degoo%20Cloud&sid=1625235613&sct=1&seg=1&_s=2' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --data-raw $'en=actions&_et=476&ep.event_category=share&ep.event_label=Share%3A%20Share%20link%20browsing.%20SignedIn%3A%20true&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829\r\nen=scroll&_et=851&epn.percent_scrolled=90&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829\r\nen=opened_overlay&_et=1415&ep.event_category=engagement&ep.event_label=Opened%20overlay&epn.value=1\r\nen=overlay&_et=91&ep.event_category=engagement&ep.event_label=Showing%20PHOTO%20in%20overlay&epn.value=1\r\nen=page_view&_et=663&dr=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829' \
+  --compressed ;
+curl 'https://analytics.google.com/g/collect?v=2&tid=G-668MSHBNLB&gtm=2oe6u0&_p=610145710&sr=1728x720&ul=en-us&cid=1682163499.1625235614&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829%26ID%3D15355568313&dt=Degoo%20Cloud&sid=1625235613&sct=1&seg=1&_s=2' \
+  -H 'authority: analytics.google.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: 1P_JAR=2021-07-01-17; NID=218=EHUxOBWbK6pfB1fXoKTZpL_AyrRGu-1vQtgeqVCOWIVu_UmHmdVWFf4sMYmkOU52NOZxNvAqEhpArSvgba9AxJBc1KAqSKiXebeW-du1dBI4t9OFFDZBlFxQmMKHKHxUJjRNUvuvGcbIdqsch2sYIl_cakSeKqE-M3xHWhbWfxQ' \
+  --data-raw $'en=actions&_et=476&ep.event_category=share&ep.event_label=Share%3A%20Share%20link%20browsing.%20SignedIn%3A%20true&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829\r\nen=scroll&_et=851&epn.percent_scrolled=90&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829\r\nen=opened_overlay&_et=1415&ep.event_category=engagement&ep.event_label=Opened%20overlay&epn.value=1\r\nen=overlay&_et=91&ep.event_category=engagement&ep.event_label=Showing%20PHOTO%20in%20overlay&epn.value=1\r\nen=page_view&_et=663&dr=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://c.degoo.eu/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445368&Signature=wBkL78flHuh966uxnHy6HHl5i5E%3D&use-cf-cache=true' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://c.degoo.eu/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445368&Signature=wBkL78flHuh966uxnHy6HHl5i5E%3D&use-cf-cache=true' \
+  -H 'authority: c.degoo.eu' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://c.degoo.media/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445374&Signature=RXxCDjBQRZMBrs7SsVirnMB3wTY%3D&use-cf-cache=true' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://c.degoo.media/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445374&Signature=RXxCDjBQRZMBrs7SsVirnMB3wTY%3D&use-cf-cache=true' \
+  -H 'authority: c.degoo.media' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://app.degoo.com/ngsw.json?ngsw-cache-bust=0.703013163171893' \
+  -H 'authority: app.degoo.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://app.degoo.com/ngsw-worker-polyfill.js' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: __stripe_mid=7bd0b68d-7bcd-4f7f-8dec-6bb75b5ddc593adeba; __stripe_sid=9bf6b099-f0b3-4e69-b5ff-fd9327422bc14d51c5; .ASPXAUTH=5975D3918BC51C0952BF108BB1ECA6E7CC0002B5AFB543DFE95FC0AB4D4AE806E6E0A0CF8F45CC20BF9808715F93E636C98F032985BBBF5141200151747F72EAC8B55654E15505DC2E8780F854A152D14F8EB23BDB8EAD5AB5E1576BD026F12A6392A8D0DFB7C6FE7A7BAD9A4DD2C9F9; refreshToken=ADJyfh..zL1K4iIq2oEDMBu4PhmEgc_ZOHT0OkqCraFEZDzKB0wiLuXLwyUgS0A4XALAjdC54qER-U1cRgv8dg; login=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8; _gid=GA1.2.1082673255.1625235615; mp_0357aa173096b5d9ada88030fbb1de30_mixpanel=%7B%22distinct_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%2C%22%24device_id%22%3A%20%2217a637448851c5-0658e796c892f4-756b0b5e-12fc00-17a63744886a8%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22%24user_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%7D; lastShareLinkVisit=G9_Ef2eXLNNmvUBs-09tGg; _ga=GA1.2.1682163499.1625235614; _ga_668MSHBNLB=GS1.1.1625235613.1.1.1625235765.56' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://c.degoo.biz/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445389&Signature=E5EAXYRDJb6aw73WcNLCokWU44E%3D&use-cf-cache=true' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://c.degoo.biz/degoo-production-medium-file-us-east1.degoo.me/ADJyfh/2bCGDg/jpg/ChTHcav09XsfscEO2jJzwt73bK7dQhAA.jpg?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1626445389&Signature=E5EAXYRDJb6aw73WcNLCokWU44E%3D&use-cf-cache=true' \
+  -H 'authority: c.degoo.biz' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed ;
+curl 'https://production-appsync.degoo.com/graphql' \
+  -H 'authority: production-appsync.degoo.com' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'x-api-key: da2-vs6twz5vnjdavpqndtbzg3prra' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.degoo.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'{"operationName":"GetOverlay4","variables":{"Token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTIzNTYxMSwiZXhwIjoxNjI1MjM5MjExLCJpYXQiOjE2MjUyMzU2MTEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.71IE4arQpUwtsCjvUC2AryqiM2Vn5UAboCJj7EgS6L8","ID":{"FileID":"15355568313"}},"query":"query GetOverlay4($Token: String\u0021, $ID: IDType\u0021) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }"}' \
+  --compressed
