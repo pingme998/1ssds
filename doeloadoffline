@@ -1,0 +1,8 @@
+curl 'https://g.api.mega.co.nz/cs?id=-917921428&sid=gp6Ia_cSswWB7xLYLxGYoWlHQTdQb0x3Ylo4IYhEpIaphsLpJxMeRVoMcg&domain=meganz&ut=r25ombsuXnk&v=2&lang=en' \
+  -H 'Referer: https://mega.nz/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain;charset=UTF-8' \
+  --data-raw '[{"p":["CqRjDSoZ"],"n":[],"s":0,"a":"qbq"}]' \
+  --compressed
+  
+  
