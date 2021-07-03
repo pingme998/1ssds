@@ -1,0 +1,106 @@
+fetch("https://analytics.google.com/g/collect?v=2&tid=G-668MSHBNLB&gtm=2oe6u0&_p=1933650058&sr=1728x720&ul=en-us&cid=1682163499.1625235614&dl=https%3A%2F%2Fapp.degoo.com%2Fshare%2FG9_Ef2eXLNNmvUBs-09tGg%3F_branch_match_id%3D939218991887261829%26ID%3D15355568313&dt=Degoo%20Cloud&sid=1625295039&sct=2&seg=1&_s=1", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "text/plain;charset=UTF-8",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "cookie": "1P_JAR=2021-07-01-17; NID=218=R9Qv3gWbtk91wiMWVFKkzsMH1buZ_hU_xEHW89c2VMT7InzwTNzIfCAkcez6eS1XeIG1OpSAJ0cB2KzokSYS1pJ36Y9dnzs6Y91s3Z1rYmp2caWp6dUBRMBniLXbZRDgXT0fbYJxkxFmD3vM0iePgl6pdEsvMvpEqSqgWuXt0ZI"
+  },
+  "referrerPolicy": "same-origin",
+  "body": "en=page_view\r\nen=actions&ep.event_category=share&ep.event_label=Share%3A%20Share%20link%20browsing.%20SignedIn%3A%20true\r\nen=opened_overlay&ep.event_category=engagement&ep.event_label=Opened%20overlay&epn.value=1\r\nen=overlay&ep.event_category=engagement&ep.event_label=Showing%20PHOTO%20in%20overlay&epn.value=1\r\nen=scroll&epn.percent_scrolled=90",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://app.degoo.com/ngsw.json?ngsw-cache-bust=0.32343332238381794", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "cookie": "__stripe_mid=7bd0b68d-7bcd-4f7f-8dec-6bb75b5ddc593adeba; .ASPXAUTH=5975D3918BC51C0952BF108BB1ECA6E7CC0002B5AFB543DFE95FC0AB4D4AE806E6E0A0CF8F45CC20BF9808715F93E636C98F032985BBBF5141200151747F72EAC8B55654E15505DC2E8780F854A152D14F8EB23BDB8EAD5AB5E1576BD026F12A6392A8D0DFB7C6FE7A7BAD9A4DD2C9F9; refreshToken=ADJyfh..zL1K4iIq2oEDMBu4PhmEgc_ZOHT0OkqCraFEZDzKB0wiLuXLwyUgS0A4XALAjdC54qER-U1cRgv8dg; _gid=GA1.2.1082673255.1625235615; mp_0357aa173096b5d9ada88030fbb1de30_mixpanel=%7B%22distinct_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%2C%22%24device_id%22%3A%20%2217a637448851c5-0658e796c892f4-756b0b5e-12fc00-17a63744886a8%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22%24user_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%7D; lastShareLinkVisit=G9_Ef2eXLNNmvUBs-09tGg; login=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTI5NTA0MSwiZXhwIjoxNjI1Mjk4NjQxLCJpYXQiOjE2MjUyOTUwNDEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.hzoBGgmubDwCqBCstDU-JK_lL1rsjH0QYrErFP6nxns; _ga=GA1.2.1682163499.1625235614; _ga_668MSHBNLB=GS1.1.1625295039.2.1.1625295046.53"
+  },
+  "referrer": "https://app.degoo.com/ngsw-worker-polyfill.js",
+  "referrerPolicy": "same-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://app.degoo.com/10-es2015.459d5774226fc22aafe7.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "cookie": "__stripe_mid=7bd0b68d-7bcd-4f7f-8dec-6bb75b5ddc593adeba; .ASPXAUTH=5975D3918BC51C0952BF108BB1ECA6E7CC0002B5AFB543DFE95FC0AB4D4AE806E6E0A0CF8F45CC20BF9808715F93E636C98F032985BBBF5141200151747F72EAC8B55654E15505DC2E8780F854A152D14F8EB23BDB8EAD5AB5E1576BD026F12A6392A8D0DFB7C6FE7A7BAD9A4DD2C9F9; refreshToken=ADJyfh..zL1K4iIq2oEDMBu4PhmEgc_ZOHT0OkqCraFEZDzKB0wiLuXLwyUgS0A4XALAjdC54qER-U1cRgv8dg; _gid=GA1.2.1082673255.1625235615; mp_0357aa173096b5d9ada88030fbb1de30_mixpanel=%7B%22distinct_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%2C%22%24device_id%22%3A%20%2217a637448851c5-0658e796c892f4-756b0b5e-12fc00-17a63744886a8%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22%24user_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%7D; lastShareLinkVisit=G9_Ef2eXLNNmvUBs-09tGg; login=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTI5NTA0MSwiZXhwIjoxNjI1Mjk4NjQxLCJpYXQiOjE2MjUyOTUwNDEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.hzoBGgmubDwCqBCstDU-JK_lL1rsjH0QYrErFP6nxns; _ga=GA1.2.1682163499.1625235614; _ga_668MSHBNLB=GS1.1.1625295039.2.1.1625295046.53"
+  },
+  "referrer": "https://app.degoo.com/ngsw-worker-polyfill.js",
+  "referrerPolicy": "same-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://production-appsync.degoo.com/graphql", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "x-api-key": "da2-vs6twz5vnjdavpqndtbzg3prra"
+  },
+  "referrerPolicy": "same-origin",
+  "body": "{\"operationName\":\"GetOverlay4\",\"variables\":{\"Token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTI5NTA0MSwiZXhwIjoxNjI1Mjk4NjQxLCJpYXQiOjE2MjUyOTUwNDEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.hzoBGgmubDwCqBCstDU-JK_lL1rsjH0QYrErFP6nxns\",\"ID\":{\"FileID\":\"17585717\"}},\"query\":\"query GetOverlay4($Token: String!, $ID: IDType!) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }\"}",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://app.degoo.com/index.html", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "if-modified-since": "Fri, 02 Jul 2021 07:19:07 GMT",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "cookie": "__stripe_mid=7bd0b68d-7bcd-4f7f-8dec-6bb75b5ddc593adeba; .ASPXAUTH=5975D3918BC51C0952BF108BB1ECA6E7CC0002B5AFB543DFE95FC0AB4D4AE806E6E0A0CF8F45CC20BF9808715F93E636C98F032985BBBF5141200151747F72EAC8B55654E15505DC2E8780F854A152D14F8EB23BDB8EAD5AB5E1576BD026F12A6392A8D0DFB7C6FE7A7BAD9A4DD2C9F9; refreshToken=ADJyfh..zL1K4iIq2oEDMBu4PhmEgc_ZOHT0OkqCraFEZDzKB0wiLuXLwyUgS0A4XALAjdC54qER-U1cRgv8dg; _gid=GA1.2.1082673255.1625235615; mp_0357aa173096b5d9ada88030fbb1de30_mixpanel=%7B%22distinct_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%2C%22%24device_id%22%3A%20%2217a637448851c5-0658e796c892f4-756b0b5e-12fc00-17a63744886a8%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22%24user_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%7D; lastShareLinkVisit=G9_Ef2eXLNNmvUBs-09tGg; login=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTI5NTA0MSwiZXhwIjoxNjI1Mjk4NjQxLCJpYXQiOjE2MjUyOTUwNDEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.hzoBGgmubDwCqBCstDU-JK_lL1rsjH0QYrErFP6nxns; _ga=GA1.2.1682163499.1625235614; _ga_668MSHBNLB=GS1.1.1625295039.2.1.1625295046.53"
+  },
+  "referrer": "https://app.degoo.com/ngsw-worker-polyfill.js",
+  "referrerPolicy": "same-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://app.degoo.com/runtime-es2015.7a1d773977918afd758f.js", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "cookie": "__stripe_mid=7bd0b68d-7bcd-4f7f-8dec-6bb75b5ddc593adeba; .ASPXAUTH=5975D3918BC51C0952BF108BB1ECA6E7CC0002B5AFB543DFE95FC0AB4D4AE806E6E0A0CF8F45CC20BF9808715F93E636C98F032985BBBF5141200151747F72EAC8B55654E15505DC2E8780F854A152D14F8EB23BDB8EAD5AB5E1576BD026F12A6392A8D0DFB7C6FE7A7BAD9A4DD2C9F9; refreshToken=ADJyfh..zL1K4iIq2oEDMBu4PhmEgc_ZOHT0OkqCraFEZDzKB0wiLuXLwyUgS0A4XALAjdC54qER-U1cRgv8dg; _gid=GA1.2.1082673255.1625235615; mp_0357aa173096b5d9ada88030fbb1de30_mixpanel=%7B%22distinct_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%2C%22%24device_id%22%3A%20%2217a637448851c5-0658e796c892f4-756b0b5e-12fc00-17a63744886a8%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22%24user_id%22%3A%20%22r2iwQZtk_yO2ulwP5t6TYouG2kA%22%7D; lastShareLinkVisit=G9_Ef2eXLNNmvUBs-09tGg; login=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTI5NTA0MSwiZXhwIjoxNjI1Mjk4NjQxLCJpYXQiOjE2MjUyOTUwNDEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.hzoBGgmubDwCqBCstDU-JK_lL1rsjH0QYrErFP6nxns; _ga=GA1.2.1682163499.1625235614; _ga_668MSHBNLB=GS1.1.1625295039.2.1.1625295046.53"
+  },
+  "referrer": "https://app.degoo.com/ngsw-worker-polyfill.js",
+  "referrerPolicy": "same-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://production-appsync.degoo.com/graphql", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "x-api-key": "da2-vs6twz5vnjdavpqndtbzg3prra"
+  },
+  "referrerPolicy": "same-origin",
+  "body": "{\"operationName\":\"GetOverlay4\",\"variables\":{\"Token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiIyNTMyOTE1NyIsIm5iZiI6MTYyNTI5NTA0MSwiZXhwIjoxNjI1Mjk4NjQxLCJpYXQiOjE2MjUyOTUwNDEsImlzcyI6ImRlZ29vLmNvbSIsImF1ZCI6ImRlZ29vLmNvbSJ9.hzoBGgmubDwCqBCstDU-JK_lL1rsjH0QYrErFP6nxns\",\"ID\":{\"FileID\":\"17585717\"}},\"query\":\"query GetOverlay4($Token: String!, $ID: IDType!) {\\n    getOverlay4(Token: $Token, ID: $ID) {\\n      ID\\n      MetadataID\\n      UserID\\n      DeviceID\\n      MetadataKey\\n      Name\\n      FilePath\\n      LocalPath\\n      LastUploadTime\\n      LastModificationTime\\n      ParentID\\n      Category\\n      Size\\n      Platform\\n      URL\\n      ThumbnailURL\\n      CreationTime\\n      IsSelfLiked\\n      Likes\\n      Comments\\n      IsHidden\\n      IsInRecycleBin\\n      Description\\n      Location {\\n        Country\\n        Province\\n        Place\\n        GeoLocation {\\n          Latitude\\n          Longitude\\n        }\\n      }\\n      Data\\n      DataBlock\\n      CompressionParameters\\n      Shareinfo {\\n        Status\\n        ShareTime\\n      }\\n    }\\n  }\"}",
+  "method": "POST",
+  "mode": "cors"
+});
